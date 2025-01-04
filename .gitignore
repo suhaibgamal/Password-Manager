@@ -1,0 +1,29 @@
+# Byte-compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# Database files
+*.db
+
+# Secret keys or sensitive files
+*.key
+secret_key.txt
+
+# Environment files
+.env
+
+# Operating system files
+.DS_Store               # macOS
+Thumbs.db               # Windows
+
+# IDE-specific files
+.vscode/                # Visual Studio Code
+.idea/                  # JetBrains IDEs
+
+# Logs and cache
+*.log
+*.tmp
+
+# PyQt Designer backup files
+*.bak
